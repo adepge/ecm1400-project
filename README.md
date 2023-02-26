@@ -31,7 +31,7 @@ ___
 Requirements: [Anaconda](https://www.anaconda.com/) (contains the libraries needed for this program to run)
 
 Using Anaconda Navigator, open VS Code (or any IDE that supports the libraries under Anaconda)
-Download this repository and open the `/ecm1400-coursework` directory in the editor. Run main.py and follow instructions in the Python terminal. 
+Download this repository and open the `/ecm1400-coursework` directory in the editor. Run `main.py` and follow instructions in the Python terminal. 
 
 __**Warning:**__ This system is only used for testing. It is not designed for commercial use. All the code provided is as-is at the time of submission. 
 
