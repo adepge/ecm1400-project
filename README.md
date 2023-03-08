@@ -33,14 +33,14 @@ Requirements: [Anaconda](https://www.anaconda.com/) (contains the libraries need
 Using Anaconda Navigator, open VS Code (or any IDE that supports the libraries under Anaconda)
 Download this repository and open the `/ecm1400-coursework` directory in the editor. Run `main.py` and follow instructions in the Python terminal. 
 
-__**Warning:**__ This system is only used for testing. It is not designed for commercial use. All the code provided is as-is at the time of submission. 
+__**Warning:**__ This system is only used for testing. It is not designed for general-purpose use. All the code provided is as-is at the time of submission. 
 
 
 ___
 
 #### __Comments__
 
-This is the first project I've done in Python since doing IGCSE Computer Science, so it has been two years since I have obtained any relevant coding experience. Overall, reflecting on this first project, while it fulfilled most of the specification as intended, there are many improvements that could still be made - especially with the real-time monitoring module. For example, the site codes and species codes could have been iterated for the user within the system rather than resorting to manual input. The code is not consistently documented throughout, making it more difficult to read and explain some of the more complex functions. Therefore, I believe that this system is not suitable for general use.
+This is the first project I've done in Python since doing IGCSE Computer Science, so it has been two years since I have obtained any relevant coding experience. Overall, reflecting on this first project, while it fulfilled most of the specification as intended, there are many improvements that could still be made - especially with the real-time monitoring module. For example, the site codes and species codes could have been iterated for the user within the system rather than resorting to manual input. The code is not consistently documented throughout, making it more difficult to read and explain some of the more complex functions. Therefore, I believe that this system could be further improved in the future to increase ease of use.
 
 This project is documented as a personal learning experience. 
 
